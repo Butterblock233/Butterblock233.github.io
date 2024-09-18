@@ -43,6 +43,14 @@ theme = "DoIt"
     title = ""
     weight = 2
   [[menu.main]]
+    identifier = "series"
+    pre = ""
+    post = ""
+    name = "系列"
+    url = "/series/"
+    title = ""
+    weight = 2
+  [[menu.main]]
     identifier = "categories"
     pre = ""
     post = ""
@@ -66,3 +74,10 @@ theme = "DoIt"
   avatarURL = "/Butterblock233"
   # 头像的链接指向的 URL
   avatarLinkURL = "avatars.githubusercontent.com"
+
+
+#文章分类
+[taxonomies]
+  tag = "tags"
+  series = "series"
+  category = "categories"
