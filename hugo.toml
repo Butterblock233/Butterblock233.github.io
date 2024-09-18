@@ -49,7 +49,7 @@ theme = "DoIt"
     name = "系列"
     url = "/series/"
     title = ""
-    weight = 2
+    weight = 3
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -57,7 +57,7 @@ theme = "DoIt"
     name = "分类"
     url = "/categories/"
     title = ""
-    weight = 3
+    weight = 4
 
 # Hugo 解析文档的配置
 [markup]
