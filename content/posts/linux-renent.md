@@ -11,11 +11,11 @@ categories = ["计算机"]
 ## 前景提要
 事情起因是在上周天，数名俄罗斯籍的linux内核maintainner被无故革除维护者身份。具体可以在[这里](https://aosc.io/news/detail/2024-10-24-condemnation-of-the-linux-foundation-and-its-employees.zh-cn.md)查看详情，本文限于篇幅不再赘述。
 ## 社区回应
-此事件引起了社区的强烈反对。除了正常的再论坛和邮件列表提出异议，部分开发者还在[pull requests](https://github.com/torvalds/linux/pull)上，模仿linus本人的言论进行大规模的反串。
+此事件引起了社区的强烈反对。除了常规在论坛和邮件列表提出异议，部分开发者还在[pull requests](https://github.com/torvalds/linux/pull)上，模仿linus本人的言论进行大规模的反串。
 ![Linux-PRs](../images/Linux-PRs.png)
 这里简单梳理这几个PR。
 - [No.988](https://github.com/torvalds/linux/pull/988)此PR~~拉开了反串的序幕~~提议“移除所有华为开发者”。该帖子是目前评论数最多的一个，内容涵盖抽象、反串、国际友人、引战、人身攻击、VV老师等等等等简中互联网精髓(存疑)，完全值得各位乐子人一读；
-- [No.989](https://github.com/torvalds/linux/pull/989)此PR提议移除全部mainntainner名单  ~~从源头上解决问题~~；
+- [No.989](https://github.com/torvalds/linux/pull/989)此PR提议将全部mainntainners从名单中移除  ~~从源头上解决问题~~；
 - [No.990](https://github.com/torvalds/linux/pull/990)此PR修改了Code of Conduct，删除了“不分国籍一律平等”的条目；
 - [No.991](https://github.com/torvalds/linux/pull/991)此PR提议移除所有Google开发者；
 No.993-No.995的PR提议移除**Linus Torvalds**等核心开发者(大爆笑)；
