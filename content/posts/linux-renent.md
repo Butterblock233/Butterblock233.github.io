@@ -18,7 +18,7 @@ categories = ["计算机"]
 - [No.989](https://github.com/torvalds/linux/pull/989)此PR提议移除全部mainntainner名单  ~~从源头上解决问题~~；
 - [No.990](https://github.com/torvalds/linux/pull/990)此PR修改了Code of Conduct，删除了“不分国籍一律平等”的条目；
 - [No.991](https://github.com/torvalds/linux/pull/991)此PR提议移除所有Google开发者；
-No.993-No.995的PR提议移除*Linus Torvalds**等核心开发者(大爆笑)；
+No.993-No.995的PR提议移除**Linus Torvalds**等核心开发者(大爆笑)；
 >Note:这几个帖子都是**反串**，请不要人身攻击他人。
 ## 个人感受
 ~~如果当初知道这样就去阻止了，~~  开源社区以这样一种极度“抽象”的方式对项目的政治正确风波做了有力回击，阐明了自己的立场，并给广大网友带来了极为丰富的乐子。
